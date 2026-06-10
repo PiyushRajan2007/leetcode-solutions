@@ -156,4 +156,20 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
