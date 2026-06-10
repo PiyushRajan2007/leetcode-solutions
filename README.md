@@ -182,5 +182,18 @@ This repository serves as:
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [1929-concatenation-of-array](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
