@@ -132,10 +132,12 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,6 +190,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
