@@ -203,5 +203,6 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0584-find-customer-referee/) | Easy |
+| [0595-big-countries](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
