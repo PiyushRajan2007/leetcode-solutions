@@ -205,6 +205,7 @@ This repository serves as:
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0006-zigzag-conversion/) | Medium |
 | [0067-add-binary](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
