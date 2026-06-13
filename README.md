@@ -131,6 +131,7 @@ This repository serves as:
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -145,6 +146,7 @@ This repository serves as:
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 ## Array
@@ -244,4 +246,8 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 <!---LeetCode Topics End-->
