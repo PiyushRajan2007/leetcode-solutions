@@ -139,6 +139,7 @@ This repository serves as:
 | [0144-binary-tree-preorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -149,6 +150,7 @@ This repository serves as:
 | [0144-binary-tree-preorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -163,6 +165,7 @@ This repository serves as:
 | [0144-binary-tree-preorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -245,6 +248,7 @@ This repository serves as:
 | [0012-integer-to-roman](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0038-count-and-say](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0038-count-and-say/) | Medium |
 | [0067-add-binary](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+| [0257-binary-tree-paths](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
@@ -271,6 +275,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
+| [0257-binary-tree-paths](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
