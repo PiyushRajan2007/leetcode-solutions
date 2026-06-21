@@ -179,6 +179,7 @@ This repository serves as:
 | [0485-max-consecutive-ones](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [1470-shuffle-the-array](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1929-concatenation-of-array](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
@@ -189,6 +190,7 @@ This repository serves as:
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -320,10 +322,15 @@ This repository serves as:
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1913-maximum-product-difference-between-two-pairs/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
