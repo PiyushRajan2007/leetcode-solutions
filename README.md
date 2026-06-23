@@ -283,6 +283,7 @@ This repository serves as:
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -334,6 +335,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
+| [3699-number-of-zigzag-arrays-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
