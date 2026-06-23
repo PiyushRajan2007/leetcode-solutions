@@ -214,6 +214,7 @@ This repository serves as:
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0146-lru-cache](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0460-lfu-cache](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/0460-lfu-cache/) | Hard |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -241,6 +242,7 @@ This repository serves as:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0067-add-binary](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0223-rectangle-area](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0223-rectangle-area/) | Medium |
@@ -349,4 +351,8 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0284-peeking-iterator](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0284-peeking-iterator/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
