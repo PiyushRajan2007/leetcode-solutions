@@ -222,6 +222,7 @@ This repository serves as:
 | [0205-isomorphic-strings](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0460-lfu-cache](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/0460-lfu-cache/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -279,6 +280,7 @@ This repository serves as:
 | [0257-binary-tree-paths](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0459-repeated-substring-pattern/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3614-process-string-with-special-operations-ii/) | Hard |
@@ -314,6 +316,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
