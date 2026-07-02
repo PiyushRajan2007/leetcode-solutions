@@ -190,6 +190,7 @@ This repository serves as:
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -212,6 +213,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -333,6 +335,7 @@ This repository serves as:
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -416,4 +419,13 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
