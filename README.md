@@ -193,6 +193,7 @@ This repository serves as:
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -214,6 +215,7 @@ This repository serves as:
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -311,6 +313,7 @@ This repository serves as:
 | [0198-house-robber](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Backtracking
@@ -413,6 +416,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -426,8 +430,14 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
