@@ -270,6 +270,7 @@ This repository serves as:
 | [0067-add-binary](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0223-rectangle-area](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0223-rectangle-area/) | Medium |
 | [0258-add-digits](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
+| [1025-divisor-game](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -314,6 +315,7 @@ This repository serves as:
 | [0005-longest-palindromic-substring](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0198-house-robber](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
+| [1025-divisor-game](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
@@ -447,4 +449,12 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3620-network-recovery-pathways](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
