@@ -181,6 +181,7 @@ This repository serves as:
 | [0198-house-robber](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0284-peeking-iterator](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0284-peeking-iterator/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1470-shuffle-the-array](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
@@ -372,6 +373,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0164-maximum-gap/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
