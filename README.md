@@ -285,6 +285,7 @@ This repository serves as:
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -376,6 +377,7 @@ This repository serves as:
 | ------- | ------- |
 | [0258-add-digits](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
