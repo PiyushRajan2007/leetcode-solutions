@@ -226,6 +226,7 @@ This repository serves as:
 | [1833-maximum-ice-cream-bars](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Segment Tree
@@ -256,6 +257,7 @@ This repository serves as:
 | [1189-maximum-number-of-balloons](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -338,6 +340,7 @@ This repository serves as:
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -448,6 +451,7 @@ This repository serves as:
 | [1840-maximum-building-height](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
@@ -466,6 +470,7 @@ This repository serves as:
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
