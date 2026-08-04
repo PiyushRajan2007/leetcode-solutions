@@ -339,6 +339,7 @@ This repository serves as:
 | [0012-integer-to-roman](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0038-count-and-say](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0038-count-and-say/) | Medium |
 | [0067-add-binary](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+| [0125-valid-palindrome](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0257-binary-tree-paths](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
@@ -406,6 +407,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
+| [0125-valid-palindrome](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
