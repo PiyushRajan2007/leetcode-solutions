@@ -311,6 +311,7 @@ This repository serves as:
 | [0067-add-binary](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0168-excel-sheet-column-title/) | Easy |
 | [0223-rectangle-area](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0223-rectangle-area/) | Medium |
+| [0231-power-of-two](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0263-ugly-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
@@ -371,6 +372,7 @@ This repository serves as:
 | ------- | ------- |
 | [0067-add-binary](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
+| [0231-power-of-two](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0338-counting-bits](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -512,6 +514,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0231-power-of-two](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0486-predict-the-winner](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
