@@ -309,6 +309,7 @@ This repository serves as:
 | [0002-add-two-numbers](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0067-add-binary](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0168-excel-sheet-column-title/) | Easy |
 | [0223-rectangle-area](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0223-rectangle-area/) | Medium |
 | [0258-add-digits](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0263-ugly-number/) | Easy |
@@ -346,6 +347,7 @@ This repository serves as:
 | [0038-count-and-say](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0038-count-and-say/) | Medium |
 | [0067-add-binary](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0168-excel-sheet-column-title/) | Easy |
 | [0205-isomorphic-strings](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0257-binary-tree-paths](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
