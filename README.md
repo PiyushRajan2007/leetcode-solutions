@@ -184,6 +184,7 @@ This repository serves as:
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0164-maximum-gap](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0164-maximum-gap/) | Medium |
 | [0198-house-robber](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
+| [0268-missing-number](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0284-peeking-iterator](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0284-peeking-iterator/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
@@ -259,6 +260,7 @@ This repository serves as:
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0146-lru-cache](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0205-isomorphic-strings](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
+| [0268-missing-number](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0460-lfu-cache](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/0460-lfu-cache/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
@@ -314,6 +316,7 @@ This repository serves as:
 | [0231-power-of-two](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0263-ugly-number/) | Easy |
+| [0268-missing-number](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
@@ -373,6 +376,7 @@ This repository serves as:
 | [0067-add-binary](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0231-power-of-two](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -469,6 +473,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0164-maximum-gap/) | Medium |
+| [0268-missing-number](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
@@ -540,6 +545,7 @@ This repository serves as:
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
