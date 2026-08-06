@@ -311,6 +311,7 @@ This repository serves as:
 | [0067-add-binary](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0223-rectangle-area](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0223-rectangle-area/) | Medium |
 | [0258-add-digits](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0263-ugly-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
