@@ -312,6 +312,7 @@ This repository serves as:
 | ------- | ------- |
 | [0067-add-binary](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
+| [0415-add-strings](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [0682-baseball-game](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [1260-shift-2d-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1929-concatenation-of-array](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
@@ -333,6 +334,7 @@ This repository serves as:
 | [0268-missing-number](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
+| [0415-add-strings](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [0486-predict-the-winner](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
@@ -374,6 +376,7 @@ This repository serves as:
 | [0205-isomorphic-strings](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0257-binary-tree-paths](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
+| [0415-add-strings](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0459-repeated-substring-pattern/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
