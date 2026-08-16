@@ -210,6 +210,7 @@ This repository serves as:
 | [1929-concatenation-of-array](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -240,6 +241,7 @@ This repository serves as:
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2029-stone-game-ix](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -346,6 +348,7 @@ This repository serves as:
 | [1510-stone-game-iv](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 | [1840-maximum-building-height](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/2413-smallest-even-multiple/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
@@ -543,6 +546,7 @@ This repository serves as:
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
+| [2029-stone-game-ix](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -641,6 +645,7 @@ This repository serves as:
 | [1140-stone-game-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -656,15 +661,18 @@ This repository serves as:
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
