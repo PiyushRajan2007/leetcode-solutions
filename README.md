@@ -202,6 +202,7 @@ This repository serves as:
 | [1406-stone-game-iii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
+| [1563-stone-game-v](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
@@ -346,6 +347,7 @@ This repository serves as:
 | [1344-angle-between-hands-of-a-clock](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
 | [1840-maximum-building-height](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
@@ -436,6 +438,7 @@ This repository serves as:
 | [1301-number-of-paths-with-max-score](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -645,6 +648,7 @@ This repository serves as:
 | [1140-stone-game-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
