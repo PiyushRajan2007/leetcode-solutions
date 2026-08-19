@@ -199,6 +199,7 @@ This repository serves as:
 | [1288-remove-covered-intervals](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
@@ -241,6 +242,7 @@ This repository serves as:
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2029-stone-game-ix](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
@@ -280,6 +282,7 @@ This repository serves as:
 | [1189-maximum-number-of-balloons](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -414,6 +417,7 @@ This repository serves as:
 | [0268-missing-number](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0342-power-of-four/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
