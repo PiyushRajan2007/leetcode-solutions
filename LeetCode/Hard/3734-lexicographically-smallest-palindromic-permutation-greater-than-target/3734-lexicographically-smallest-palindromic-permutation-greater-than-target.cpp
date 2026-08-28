@@ -17,7 +17,6 @@ public:
 
         string t = target.substr(0, m);
 
-        // Check if target's first half can be used exactly
         vector<int> cnt = r;
         bool ok = true;
 
@@ -38,8 +37,6 @@ public:
             string ans = build(t);
             if (ans > target) return ans;
         }
-
-        // Find smallest half strictly greater than t
         for (int i = m - 1; i >= 0; i--) {
             cnt = r;
 
