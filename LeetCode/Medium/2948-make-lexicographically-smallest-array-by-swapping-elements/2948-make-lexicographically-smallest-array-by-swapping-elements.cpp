@@ -10,7 +10,7 @@ public:
         sort(arr.begin(), arr.end());
         
         vector<int> res(n);
-        int i = 0;
+        int i=0 ;
         while (i < n) {
             int j = i;
          
