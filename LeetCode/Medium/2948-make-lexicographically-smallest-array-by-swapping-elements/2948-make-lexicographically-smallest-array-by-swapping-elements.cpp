@@ -19,16 +19,16 @@ public:
             }
             
           
-            vector<int> indices;
+            vector<int> index;
             for (int k = i; k < j; ++k) {
-                indices.push_back(arr[k].second);
+                index.push_back(arr[k].second);
             }
             
-            sort(indices.begin(), indices.end());
+            sort(index.begin(), index.end());
             
         
-            for (int k = 0; k < indices.size(); ++k) {
-                res[indices[k]] = arr[i + k].first;
+            for (int k = 0; k < index.size(); ++k) {
+                res[index[k]] = arr[i + k].first;
             }
             
             i = j;
