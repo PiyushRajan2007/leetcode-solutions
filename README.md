@@ -234,6 +234,7 @@ This repository serves as:
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -302,6 +303,7 @@ This repository serves as:
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
@@ -449,6 +451,7 @@ This repository serves as:
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -516,6 +519,7 @@ This repository serves as:
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3310-remove-methods-from-project/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -659,6 +663,7 @@ This repository serves as:
 | [1301-number-of-paths-with-max-score](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
