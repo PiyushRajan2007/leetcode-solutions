@@ -188,6 +188,7 @@ This repository serves as:
 | [0164-maximum-gap](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0164-maximum-gap/) | Medium |
 | [0198-house-robber](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0268-missing-number](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0284-peeking-iterator](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0284-peeking-iterator/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
@@ -506,6 +507,7 @@ This repository serves as:
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0125-valid-palindrome](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
+| [0283-move-zeroes](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
