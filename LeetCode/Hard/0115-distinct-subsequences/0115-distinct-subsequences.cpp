@@ -11,13 +11,12 @@ public:
                 if (c == t[j - 1]) {
                     dp[j] += dp[j - 1];
 
-                    // Prevent overflow
                     if (dp[j] > INT_MAX)
                         dp[j] = INT_MAX;
                 }
             }
         }
-
-        return (int)dp[m];
+       int k = (int)dp[m];
+        return k;
     }
 };
