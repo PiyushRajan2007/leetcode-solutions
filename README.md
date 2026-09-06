@@ -411,6 +411,7 @@ This repository serves as:
 | [0012-integer-to-roman](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0038-count-and-say](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0038-count-and-say/) | Medium |
 | [0067-add-binary](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+| [0115-distinct-subsequences](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0166-fraction-to-recurring-decimal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0166-fraction-to-recurring-decimal/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0168-excel-sheet-column-title/) | Easy |
@@ -471,6 +472,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
+| [0115-distinct-subsequences](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0198-house-robber](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0486-predict-the-winner](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
