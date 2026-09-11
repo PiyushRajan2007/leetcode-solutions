@@ -3,17 +3,16 @@ public:
     int totalNumbers(vector<int>& digits) {
         int freq[10] = {};
 
-        // Count available copies of each digit
         for (int d : digits) {
             freq[d]++;
         }
 
         int ans = 0;
 
-        // Try every 3-digit number
+    
         for (int num = 100; num <= 999; num++) {
 
-            // Number must be even
+         
             if (num % 2 != 0)
                 continue;
 
@@ -27,7 +26,7 @@ public:
 
             int hundreds = x;
 
-            // Check availability
+           
             int need[10] = {};
             need[ones]++;
             need[tens]++;
