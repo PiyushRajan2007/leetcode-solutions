@@ -377,6 +377,7 @@ This repository serves as:
 | [0492-construct-the-rectangle](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0492-construct-the-rectangle/) | Easy |
 | [0504-base-7](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0504-base-7/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
 | [1140-stone-game-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
@@ -570,6 +571,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0223-rectangle-area/) | Medium |
+| [0836-rectangle-overlap](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
