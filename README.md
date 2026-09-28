@@ -458,6 +458,7 @@ This repository serves as:
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -589,6 +590,7 @@ This repository serves as:
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -821,4 +823,5 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
