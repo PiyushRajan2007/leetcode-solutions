@@ -131,6 +131,7 @@ This repository serves as:
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -167,6 +168,7 @@ This repository serves as:
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -379,6 +381,7 @@ This repository serves as:
 | [0002-add-two-numbers](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0067-add-binary](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0166-fraction-to-recurring-decimal/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0168-excel-sheet-column-title/) | Easy |
 | [0223-rectangle-area](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0223-rectangle-area/) | Medium |
@@ -518,6 +521,7 @@ This repository serves as:
 | [0005-longest-palindromic-substring](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0096-unique-binary-search-trees](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0115-distinct-subsequences](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0198-house-robber](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
@@ -831,6 +835,7 @@ This repository serves as:
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
