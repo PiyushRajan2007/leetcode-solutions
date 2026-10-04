@@ -269,6 +269,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -458,6 +459,7 @@ This repository serves as:
 | [0415-add-strings](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0459-repeated-substring-pattern/) | Easy |
 | [0504-base-7](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0504-base-7/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
@@ -526,6 +528,7 @@ This repository serves as:
 | [0198-house-robber](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0486-predict-the-winner](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1025-divisor-game](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
@@ -601,6 +604,7 @@ This repository serves as:
 | [0144-binary-tree-preorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
@@ -843,6 +847,7 @@ This repository serves as:
 | [0020-valid-parentheses](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
