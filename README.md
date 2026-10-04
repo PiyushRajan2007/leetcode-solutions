@@ -396,6 +396,7 @@ This repository serves as:
 | [0342-power-of-four](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0415-add-strings](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
+| [0470-implement-rand10-using-rand7](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0470-implement-rand10-using-rand7/) | Medium |
 | [0486-predict-the-winner](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0492-construct-the-rectangle/) | Easy |
 | [0504-base-7](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0504-base-7/) | Easy |
@@ -856,4 +857,16 @@ This repository serves as:
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Rejection Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0470-implement-rand10-using-rand7/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0470-implement-rand10-using-rand7/) | Medium |
+## Probability and Statistics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0470-implement-rand10-using-rand7/) | Medium |
 <!---LeetCode Topics End-->
