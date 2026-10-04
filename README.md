@@ -141,6 +141,7 @@ This repository serves as:
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
@@ -155,6 +156,7 @@ This repository serves as:
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
@@ -178,6 +180,7 @@ This repository serves as:
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
@@ -841,6 +844,7 @@ This repository serves as:
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
