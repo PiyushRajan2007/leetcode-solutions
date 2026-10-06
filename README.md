@@ -132,6 +132,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -152,6 +153,7 @@ This repository serves as:
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
@@ -171,6 +173,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -849,6 +852,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Bracket Sequences
