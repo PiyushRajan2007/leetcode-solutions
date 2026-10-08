@@ -508,6 +508,7 @@ This repository serves as:
 | ------- | ------- |
 | [0067-add-binary](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
+| [0190-reverse-bits](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
 | [0231-power-of-two](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
@@ -652,6 +653,7 @@ This repository serves as:
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0190-reverse-bits](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Sorting
