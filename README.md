@@ -192,6 +192,7 @@ This repository serves as:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0078-subsets](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -319,6 +320,7 @@ This repository serves as:
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
+| [0037-sudoku-solver](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
@@ -573,6 +575,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0078-subsets](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0257-binary-tree-paths](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
@@ -781,6 +784,7 @@ This repository serves as:
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0835-image-overlap](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
@@ -897,4 +901,12 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0470-implement-rand10-using-rand7/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
