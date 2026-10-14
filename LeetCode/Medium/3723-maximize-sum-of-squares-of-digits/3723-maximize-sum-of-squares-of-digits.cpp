@@ -9,7 +9,7 @@ public:
         if (r > 0) {
             ans.push_back('0' + r);
         }
-        ans.append(num - (int)ans.size(), '0');
+        ans.append(num - ans.size(), '0');
         return ans;
     }
 };
