@@ -4,10 +4,10 @@ public:
         if (sum > 9 * num) {
             return "";
         }
-        int r = sum % 9;
+        int rem = sum % 9;
         string ans(sum / 9, '9');
-        if (r > 0) {
-            ans.push_back('0' + r);
+        if (rem > 0) {
+            ans.push_back('0' + rem);
         }
         ans.append(num - ans.size(), '0');
         return ans;
