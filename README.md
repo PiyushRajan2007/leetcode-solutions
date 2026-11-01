@@ -208,6 +208,7 @@ This repository serves as:
 | [0283-move-zeroes](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0284-peeking-iterator](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0284-peeking-iterator/) | Medium |
 | [0414-third-maximum-number](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -433,6 +434,7 @@ This repository serves as:
 | [0342-power-of-four](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0415-add-strings](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0470-implement-rand10-using-rand7](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0470-implement-rand10-using-rand7/) | Medium |
 | [0486-predict-the-winner](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0492-construct-the-rectangle/) | Easy |
