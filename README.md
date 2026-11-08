@@ -165,6 +165,7 @@ This repository serves as:
 | [0543-diameter-of-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
@@ -219,6 +220,7 @@ This repository serves as:
 | [1140-stone-game-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
@@ -669,6 +671,7 @@ This repository serves as:
 | [0662-maximum-width-of-binary-tree](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -774,6 +777,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [2029-stone-game-ix](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -846,6 +850,7 @@ This repository serves as:
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -859,6 +864,7 @@ This repository serves as:
 | [0835-image-overlap](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
