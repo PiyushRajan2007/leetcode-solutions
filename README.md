@@ -230,6 +230,7 @@ This repository serves as:
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -462,6 +463,7 @@ This repository serves as:
 | [1344-angle-between-hands-of-a-clock](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1840-maximum-building-height](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
@@ -615,6 +617,7 @@ This repository serves as:
 | [1406-stone-game-iii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1872-stone-game-viii/) | Hard |
@@ -771,6 +774,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1872-stone-game-viii](https://github.com/PiyushRajan2007/leetcode-solutions/tree/main/LeetCode/Hard/1872-stone-game-viii/) | Hard |
